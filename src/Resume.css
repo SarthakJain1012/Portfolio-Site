@@ -1,0 +1,13 @@
+.resume {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  overflow-x: hidden;
+  overflow-y: visible;
+}
+
+.pdf {
+  height: 100%;
+  width: 60%;
+  padding-top: 80px;
+}
